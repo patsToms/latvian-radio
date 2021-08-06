@@ -1,0 +1,569 @@
+[
+    {
+        "title": "Radio Alise+ 128.0kbit mp3",
+        "stream": {
+            "url": "http://fm2inet.aliseplus.lv:8000",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Radio Baltkom 192.0kbit mp3",
+        "stream": {
+            "url": "http://radio.mixnews.lv/baltkom",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 192000
+        }
+    },
+    {
+        "title": "Relax FM 45.133kbit aac",
+        "stream": {
+            "url": "http://81.198.70.75:8000/01",
+            "codec": "aac",
+            "channels": 2,
+            "bit_rate": 45133
+        }
+    },
+    {
+        "title": "Relax FM 96.0kbit mp3",
+        "stream": {
+            "url": "http://81.198.70.75:8000/02",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 96000
+        }
+    },
+    {
+        "title": "DKR Daugavpils 128.0kbit mp3",
+        "stream": {
+            "url": "http://62.205.205.100:8000/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "EHR ( EA01 ) ( mp3 )  102.343kbit mp3",
+        "stream": {
+            "url": "http://stream.europeanhitradio.com:8000/Stream_18.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 102343
+        }
+    },
+    {
+        "title": "EHR ( ED01 ) ( mp3 )  100.837kbit mp3",
+        "stream": {
+            "url": "http://stream.europeanhitradio.com:8000/Stream_17.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 100837
+        }
+    },
+    {
+        "title": "EHR ( EF01 ) ( mp3 )  99.456kbit mp3",
+        "stream": {
+            "url": "http://stream.europeanhitradio.com:8000/Stream_05.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 99456
+        }
+    },
+    {
+        "title": "EHR ( LH01 ) ( mp3 )  107.475kbit mp3",
+        "stream": {
+            "url": "http://stream.europeanhitradio.com:8000/Stream_02.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 107475
+        }
+    },
+    {
+        "title": "EHR ( RR01 ) ( mp3 )  102.347kbit mp3",
+        "stream": {
+            "url": "http://stream.hitirossii.com:8000/khr.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 102347
+        }
+    },
+    {
+        "title": "EHR ( LV01 ) ( mp3 )  108.672kbit mp3",
+        "stream": {
+            "url": "http://stream.europeanhitradio.com:8000/ehr.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 108672
+        }
+    },
+    {
+        "title": "EHR ( SH01 ) ( mp3 )  104.309kbit mp3",
+        "stream": {
+            "url": "http://stream.europeanhitradio.com:8000/Stream_01.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 104309
+        }
+    },
+    {
+        "title": "RADIO ENERGY.LV ( www.radioenergy.lv ) 128.0kbit mp3",
+        "stream": {
+            "url": "http://www.radioenergy.lv:9000/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "RADIO ENERGY.LV ( www.radioenergy.lv ) 128.0kbit mp3",
+        "stream": {
+            "url": "http://www.radioenergy.lv:8000/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Latvian Christian Radio 128.0kbit mp3",
+        "stream": {
+            "url": "http://91.228.7.124:7007/;?type=http&nocache=905",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Unnamed Server 112.0kbit mp3",
+        "stream": {
+            "url": "http://80.70.23.50:8000/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 112000
+        }
+    },
+    {
+        "title": "Latgales Radio 135.917kbit aac",
+        "stream": {
+            "url": "http://www.radiolg.lv:8000/128_aac",
+            "codec": "aac",
+            "channels": 2,
+            "bit_rate": 135917
+        }
+    },
+    {
+        "title": "Latgales Radio 128.0kbit mp3",
+        "stream": {
+            "url": "http://www.radiolg.lv:8000/128_mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Latgales Radio 61.25kbit aac",
+        "stream": {
+            "url": "http://www.radiolg.lv:8000/64_aac",
+            "codec": "aac",
+            "channels": 2,
+            "bit_rate": 61250
+        }
+    },
+    {
+        "title": "Latgales Radio 64.0kbit mp3",
+        "stream": {
+            "url": "http://www.radiolg.lv:8000/64_mp3",
+            "codec": "mp3",
+            "channels": 1,
+            "bit_rate": 64000
+        }
+    },
+    {
+        "title": "JamendoLounge 128.0kbit mp3",
+        "stream": {
+            "url": "http://listen.radionomy.com/latviandancemusic",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Radio 2 128.0kbit mp3",
+        "stream": {
+            "url": "http://lr2mp1.latvijasradio.lv:8002/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Klasika 192.0kbit mp3",
+        "stream": {
+            "url": "http://lr3mp0.latvijasradio.lv:8004/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 192000
+        }
+    },
+    {
+        "title": "Radio 4 128.0kbit mp3",
+        "stream": {
+            "url": "http://lr4mp1.latvijasradio.lv:8020/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Radio 1 128.0kbit mp3",
+        "stream": {
+            "url": "http://lr1mp1.latvijasradio.lv:8012/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Lounge Fm 192.0kbit mp3",
+        "stream": {
+            "url": "http://radio.mixnews.lv/995",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 192000
+        }
+    },
+    {
+        "title": "LRADIO-BALTIJA 128.0kbit mp3",
+        "stream": {
+            "url": "http://radio.lradiostation.com/live",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "LustīgsRadio 320.0kbit mp3",
+        "stream": {
+            "url": "http://stream.lustigsradio.lv/live",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 320000
+        }
+    },
+    {
+        "title": "Radio Marija Latvija 128.0kbit mp3",
+        "stream": {
+            "url": "http://195.122.25.178:8000/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Radio Merkurs AM 1485 kHz 96.0kbit mp3",
+        "stream": {
+            "url": "http://89.201.5.115:8000/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 96000
+        }
+    },
+    {
+        "title": "MixFm 192.0kbit mp3",
+        "stream": {
+            "url": "http://radio.mixnews.lv/MixFM",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 192000
+        }
+    },
+    {
+        "title": "Radio Naba 128.0kbit mp3",
+        "stream": {
+            "url": "http://nabamp0.latvijasradio.lv:8016/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Radio Nemiers 121.619kbit aac",
+        "stream": {
+            "url": "https://live.radionemiers.lv/nemiers.aac",
+            "codec": "aac",
+            "channels": 2,
+            "bit_rate": 121619
+        }
+    },
+    {
+        "title": "Norma Radio 256.0kbit mp3",
+        "stream": {
+            "url": "http://80.232.245.141:8000/norma",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 256000
+        }
+    },
+    {
+        "title": "Pieci FM 128.0kbit mp3",
+        "stream": {
+            "url": "http://live.pieci.lv/live19-hq.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Pieci Atklājumi 128.0kbit mp3",
+        "stream": {
+            "url": "https://live.pieci.lv/live5-hq.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Pieci Latvieši 128.0kbit mp3",
+        "stream": {
+            "url": "https://live.pieci.lv/live7-hq.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Maestro Radio 128.0kbit mp3",
+        "stream": {
+            "url": "https://live.pieci.lv/live29-hq.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Krimināli Ekselents Radio 128.0kbit mp3",
+        "stream": {
+            "url": "https://live.pieci.lv/live27-hq.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Pieci Latgalieši 128.0kbit mp3",
+        "stream": {
+            "url": "https://live.pieci.lv/live22-hq.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Pieci FM 128.0kbit mp3",
+        "stream": {
+            "url": "https://live.pieci.lv/live19-hq.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Pieci Hiti 128.0kbit mp3",
+        "stream": {
+            "url": "https://live.pieci.lv/live17-hq.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Pieci Rīti 128.0kbit mp3",
+        "stream": {
+            "url": "https://live.pieci.lv/live11-hq.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Pieci Latvieši 128.0kbit mp3",
+        "stream": {
+            "url": "https://live.pieci.lv/live7-hq.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Radio PIK 100 FM 128.0kbit mp3",
+        "stream": {
+            "url": "http://91.90.255.85:8000/01",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "POWER FM 128.0kbit mp3",
+        "stream": {
+            "url": "http://radio.powerfm.lv:8000/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Radio1 243.583kbit aac",
+        "stream": {
+            "url": "http://217.199.117.36:8000/stream",
+            "codec": "aac",
+            "channels": 2,
+            "bit_rate": 243583
+        }
+    },
+    {
+        "title": "Radio7 128.0kbit mp3",
+        "stream": {
+            "url": "http://185.8.60.118:8024/Radio7",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Radio Skonto 127.476kbit aac",
+        "stream": {
+            "url": "http://skonto.datucentrs.eu/mp3",
+            "codec": "aac",
+            "channels": 2,
+            "bit_rate": 127476
+        }
+    },
+    {
+        "title": "Radio SWH GOLD 192.0kbit mp3",
+        "stream": {
+            "url": "http://80.232.162.149:8000/gold96mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 192000
+        }
+    },
+    {
+        "title": "Radio SWH ROCK 192.0kbit mp3",
+        "stream": {
+            "url": "http://80.232.162.149:8000/rock96mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 192000
+        }
+    },
+    {
+        "title": "Radio SWH PLUS 192.0kbit mp3",
+        "stream": {
+            "url": "http://80.232.162.149:8000/plus96mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 192000
+        }
+    },
+    {
+        "title": "Radio SWH 192.0kbit mp3",
+        "stream": {
+            "url": "http://80.232.162.149:8000/swh96mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 192000
+        }
+    },
+    {
+        "title": "RETRO FM LATVIA 128.0kbit mp3",
+        "stream": {
+            "url": "https://live.retrofm.lv/retrofmlatvia",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Spin FM 192.0kbit mp3",
+        "stream": {
+            "url": "http://80.232.162.149:8000/spin96mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 192000
+        }
+    },
+    {
+        "title": "Star FM 128.0kbit mp3",
+        "stream": {
+            "url": "http://starfm.live.advailo.com/audio/mp3/icecast.audio",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "Radio Talsi .:: Lounge Chillout Mix ::. 256.0kbit mp3",
+        "stream": {
+            "url": "http://kuums.lv:5555/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 256000
+        }
+    },
+    {
+        "title": "Radio Talsi .:: Intelligent Electronic Music ::. 256.0kbit mp3",
+        "stream": {
+            "url": "http://kuums.lv:6555/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 256000
+        }
+    },
+    {
+        "title": "Radio Talsi .:: Electronic Future Beat ::. 256.0kbit mp3",
+        "stream": {
+            "url": "http://kuums.lv:7555/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 256000
+        }
+    },
+    {
+        "title": "RadioTEV 125.409kbit aac",
+        "stream": {
+            "url": "http://stream.radiotev.lv:8002/radiov",
+            "codec": "aac",
+            "channels": 2,
+            "bit_rate": 125409
+        }
+    },
+    {
+        "title": "TOPradio Latvia ->www.topradio.lv 192.0kbit mp3",
+        "stream": {
+            "url": "http://195.13.200.164:8000/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 192000
+        }
+    },
+    {
+        "title": "XO FM 128.0kbit mp3",
+        "stream": {
+            "url": "https://live.xo.fm/xofm128",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    },
+    {
+        "title": "XRADIO 128.0kbit mp3",
+        "stream": {
+            "url": "http://185.8.60.5:8000/;stream.mp3",
+            "codec": "mp3",
+            "channels": 2,
+            "bit_rate": 128000
+        }
+    }
+]

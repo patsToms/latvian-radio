@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:1,Radio 2 128.0kbit mp3
+http://lr2mp1.latvijasradio.lv:8002/;stream.mp3

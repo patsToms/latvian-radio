@@ -1,0 +1,392 @@
+{
+    "radio_stations": [
+        {
+            "title": "Alise Plus",
+            "streams": [
+                "http://fm2inet.aliseplus.lv:8000"
+            ]
+        },
+        {
+            "title": "Baltkom",
+            "streams": [
+                "http://radio.mixnews.lv/baltkom"
+            ]
+        },
+        {
+            "title": "Relax FM",
+            "streams": [
+                "http://81.198.70.75:8000/01",
+                "http://81.198.70.75:8000/02"
+            ]
+        },
+        {
+            "title": "Divu krastu radio",
+            "streams": [
+                "http://62.205.205.100:8000/;stream.mp3"
+            ]
+        },
+        {
+            "title": "Eiropas Hitu Radio Acoustic",
+            "streams": [
+                "http://stream.europeanhitradio.com:8000/Stream_18.mp3"
+            ]
+        },
+        {
+            "title": "Eiropas Hitu Radio Dance",
+            "streams": [
+                "http://stream.europeanhitradio.com:8000/Stream_17.mp3"
+            ]
+        },
+        {
+            "title": "Eiropas Hitu Radio Fresh",
+            "streams": [
+                "http://stream.europeanhitradio.com:8000/Stream_05.mp3"
+            ]
+        },
+        {
+            "title": "Eiropas Hitu Radio Latviešu",
+            "streams": [
+                "http://stream.europeanhitradio.com:8000/Stream_02.mp3"
+            ]
+        },
+        {
+            "title": "Eiropas Hitu Radio Russkije",
+            "streams": [
+                "http://stream.hitirossii.com:8000/khr.mp3"
+            ]
+        },
+        {
+            "title": "Eiropas Hitu Radio",
+            "streams": [
+                "http://stream.europeanhitradio.com:8000/ehr.mp3"
+            ]
+        },
+        {
+            "title": "Eiropas Hitu Radio Superhits",
+            "streams": [
+                "http://stream.europeanhitradio.com:8000/Stream_01.mp3"
+            ]
+        },
+        {
+            "title": "Energy rus",
+            "streams": [
+                "http://www.radioenergy.lv:9000/;stream.mp3"
+            ]
+        },
+        {
+            "title": "Energy",
+            "streams": [
+                "http://www.radioenergy.lv:8000/;stream.mp3"
+            ]
+        },
+        {
+            "title": "Jumor FM",
+            "streams": [
+                "http://radio.mixnews.lv/jumorfm"
+            ]
+        },
+        {
+            "title": "Kristīgais radio",
+            "streams": [
+                "http://91.228.7.124:7007/;?type=http&nocache=905"
+            ]
+        },
+        {
+            "title": "Kurzemes radio",
+            "streams": [
+                "http://80.70.23.50:8000/;stream.mp3"
+            ]
+        },
+        {
+            "title": "Latgales radio",
+            "streams": [
+                "http://www.radiolg.lv:8000/128_aac",
+                "http://www.radiolg.lv:8000/128_mp3",
+                "http://www.radiolg.lv:8000/64_aac",
+                "http://www.radiolg.lv:8000/64_mp3"
+            ]
+        },
+        {
+            "title": "Latvian Dance",
+            "streams": [
+                "http://listen.radionomy.com/latviandancemusic"
+            ]
+        },
+        {
+            "title": "Latvijas Radio 2",
+            "streams": [
+                "http://lr2mp1.latvijasradio.lv:8002/;stream.mp3"
+            ]
+        },
+        {
+            "title": "Latvijas Radio 3 Klasika",
+            "streams": [
+                "http://lr3mp0.latvijasradio.lv:8004/;stream.mp3"
+            ]
+        },
+        {
+            "title": "Latvijas Radio 4",
+            "streams": [
+                "http://lr4mp1.latvijasradio.lv:8020/;stream.mp3"
+            ]
+        },
+        {
+            "title": "Latvijas Radio",
+            "streams": [
+                "http://lr1mp1.latvijasradio.lv:8012/;stream.mp3"
+            ]
+        },
+        {
+            "title": "Lounge FM",
+            "streams": [
+                "http://radio.mixnews.lv/995"
+            ]
+        },
+        {
+            "title": "L radio",
+            "streams": [
+                "http://radio.lradiostation.com/live"
+            ]
+        },
+        {
+            "title": "Lustīgs radio",
+            "streams": [
+                "http://stream.lustigsradio.lv/live"
+            ]
+        },
+        {
+            "title": "Marija",
+            "streams": [
+                "http://195.122.25.178:8000/;stream.mp3"
+            ]
+        },
+        {
+            "title": "Merkurs",
+            "streams": [
+                "http://89.201.5.115:8000/;stream.mp3"
+            ]
+        },
+        {
+            "title": "MIX FM",
+            "streams": [
+                "http://radio.mixnews.lv/MixFM"
+            ]
+        },
+        {
+            "title": "NABA",
+            "streams": [
+                "http://nabamp0.latvijasradio.lv:8016/;stream.mp3"
+            ]
+        },
+        {
+            "title": "Nemiers",
+            "streams": [
+                "https://live.radionemiers.lv/nemiers.aac"
+            ]
+        },
+        {
+            "title": "Norma",
+            "streams": [
+                "http://80.232.245.141:8000/norma"
+            ]
+        },
+        {
+            "title": "Pieci",
+            "streams": [
+                "http://live.pieci.lv/live19-hq.mp3"
+            ]
+        },
+        {
+            "title": "Pieci Atklājumi",
+            "streams": [
+                "https://live.pieci.lv/live5-hq.mp3"
+            ]
+        },
+        {
+            "title": "Pieci Latvieši",
+            "streams": [
+                "https://live.pieci.lv/live7-hq.mp3"
+            ]
+        },
+        {
+            "title": "Pieci Maestro Radio",
+            "streams": [
+                "https://live.pieci.lv/live29-hq.mp3"
+            ]
+        },
+        {
+            "title": "Pieci Krimināli Ekselents Radio",
+            "streams": [
+                "https://live.pieci.lv/live27-hq.mp3"
+            ]
+        },
+        {
+            "title": "Pieci Latgalieši",
+            "streams": [
+                "https://live.pieci.lv/live22-hq.mp3"
+            ]
+        },
+        {
+            "title": "Pieci FM",
+            "streams": [
+                "https://live.pieci.lv/live19-hq.mp3"
+            ]
+        },
+        {
+            "title": "Pieci Hiti",
+            "streams": [
+                "https://live.pieci.lv/live17-hq.mp3"
+            ]
+        },
+        {
+            "title": "Pieci Rīti",
+            "streams": [
+                "https://live.pieci.lv/live11-hq.mp3"
+            ]
+        },
+        {
+            "title": "Pieci Latvieši",
+            "streams": [
+                "https://live.pieci.lv/live7-hq.mp3"
+            ]
+        },
+        {
+            "title": "PIK",
+            "streams": [
+                "http://91.90.255.85:8000/01"
+            ]
+        },
+        {
+            "title": "Power FM",
+            "streams": [
+                "http://radio.powerfm.lv:8000/;stream.mp3"
+            ]
+        },
+        {
+            "title": "Radio1",
+            "streams": [
+                "http://217.199.117.36:8000/stream"
+            ]
+        },
+        {
+            "title": "Radio7",
+            "streams": [
+                "http://185.8.60.118:8024/Radio7"
+            ]
+        },
+        {
+            "title": "Radio Skonto",
+            "streams": [
+                "http://skonto.datucentrs.eu/mp3"
+            ]
+        },
+        {
+            "title": "Radio SWH Gold",
+            "streams": [
+                "http://80.232.162.149:8000/gold96mp3"
+            ]
+        },
+        {
+            "title": "Radio SWH Rock",
+            "streams": [
+                "http://80.232.162.149:8000/rock96mp3"
+            ]
+        },
+        {
+            "title": "Radio SWH+",
+            "streams": [
+                "http://80.232.162.149:8000/plus96mp3"
+            ]
+        },
+        {
+            "title": "Radio SWH",
+            "streams": [
+                "http://80.232.162.149:8000/swh96mp3"
+            ]
+        },
+        {
+            "title": "Retro FM",
+            "streams": [
+                "https://live.retrofm.lv/retrofmlatvia"
+            ]
+        },
+        {
+            "title": "Retro Russkoe",
+            "streams": [
+                "https://live.retrofm.lv/russkoeretro128"
+            ]
+        },
+        {
+            "title": "Rietumu radio",
+            "streams": [
+                "http://n09.radiojar.com/zv4vahasgnzuv.mp3"
+            ]
+        },
+        {
+            "title": "Saldus radio",
+            "streams": [
+                "http://80.70.17.194:8080/klausies"
+            ]
+        },
+        {
+            "title": "Skonto Plus",
+            "streams": [
+                "http://91.203.69.174/st128"
+            ]
+        },
+        {
+            "title": "Spin FM",
+            "streams": [
+                "http://80.232.162.149:8000/spin96mp3"
+            ]
+        },
+        {
+            "title": "Star FM",
+            "streams": [
+                "http://starfm.live.advailo.com/audio/mp3/icecast.audio"
+            ]
+        },
+        {
+            "title": "Radio Talsi - Lounge Chillout Mix",
+            "streams": [
+                "http://kuums.lv:5555/;stream.mp3"
+            ]
+        },
+        {
+            "title": "Radio Talsi - Intelligent Electronic Music",
+            "streams": [
+                "http://kuums.lv:6555/;stream.mp3"
+            ]
+        },
+        {
+            "title": "Radio Talsi - Electronic Future Beat",
+            "streams": [
+                "http://kuums.lv:7555/;stream.mp3"
+            ]
+        },
+        {
+            "title": "TEV",
+            "streams": [
+                "http://stream.radiotev.lv:8002/radiov"
+            ]
+        },
+        {
+            "title": "Topradio",
+            "streams": [
+                "http://195.13.200.164:8000/;stream.mp3"
+            ]
+        },
+        {
+            "title": "XO",
+            "streams": [
+                "https://live.xo.fm/xofm128"
+            ]
+        },
+        {
+            "title": "X radio",
+            "streams": [
+                "http://185.8.60.5:8000/;stream.mp3"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:1,TOPradio Latvia ->www.topradio.lv 192.0kbit mp3
+http://195.13.200.164:8000/;stream.mp3

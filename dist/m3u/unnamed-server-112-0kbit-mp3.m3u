@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:1,Unnamed Server 112.0kbit mp3
+http://80.70.23.50:8000/;stream.mp3

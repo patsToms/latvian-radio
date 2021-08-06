@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:1,Radio 4 128.0kbit mp3
+http://lr4mp1.latvijasradio.lv:8020/;stream.mp3
