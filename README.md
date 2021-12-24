@@ -3,6 +3,7 @@ List with Latvian internet radio streams
 
 ### setup
 ```bash
+apt install ffmpeg
 # build playlists
 cd latvian-radio
 pip install slugify
