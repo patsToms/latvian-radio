@@ -6,7 +6,7 @@ List with Latvian internet radio streams
 apt install ffmpeg
 # build playlists
 cd latvian-radio
-pip install slugify
+pip3 install python-slugify
 ./build.py
 # host
 docker run -it --rm -p 8080:80 --name radio-web -v $PWD/dist:/usr/share/nginx/html -v $PWD/default.conf:/etc/nginx/conf.d/default.conf nginx
